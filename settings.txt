@@ -1,0 +1,2 @@
+FileDirectory ~ C:\Users\ShinSH\Desktop\eclipse\workspace\JavaProject\
+DBServerIP ~ 10.80.162.41
